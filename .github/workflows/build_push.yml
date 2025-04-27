@@ -41,5 +41,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: gagal1818/kiii-lab5:github.${GITHUB_SHA}
+          tags: gagal1818/kiii-lab5:github
   
